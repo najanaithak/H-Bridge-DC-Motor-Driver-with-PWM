@@ -1,1 +1,10 @@
-Placeholder
+# Temporary files
+*.tmp
+*.bak
+
+# KiCad backups
+*-bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
