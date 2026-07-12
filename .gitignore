@@ -8,3 +8,83 @@
 # Operating system files
 .DS_Store
 Thumbs.db
+# ============================
+# Operating System Files
+# ============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================
+# VS Code
+# ============================
+
+.vscode/
+
+# ============================
+# STM32CubeIDE
+# ============================
+
+Debug/
+Release/
+
+*.elf
+*.bin
+*.map
+*.list
+
+.settings/
+.metadata/
+
+# Generated object files
+*.o
+*.d
+*.su
+
+# ============================
+# KiCad
+# ============================
+
+*.kicad_prl
+*.kicad_pro-bak
+*-backups/
+
+# Auto Save
+*_autosave*
+
+# Lock Files
+*.lck
+
+# ============================
+# Proteus
+# ============================
+
+*.pdsbak
+*.workspace
+
+# ============================
+# Logs
+# ============================
+
+*.log
+
+# ============================
+# Temporary Files
+# ============================
+
+*.tmp
+*.temp
+
+# ============================
+# Python Cache
+# ============================
+
+__pycache__/
+
+# ============================
+# Build Folders
+# ============================
+
+build/
+dist/
