@@ -125,11 +125,11 @@ This project is released under the MIT License.
 
 ## 👨‍💻 Author
 
-Gnanesh Robbi
-Nimisha Manikandan
-Bharathraj Sarvanan
-Arshiya Nishanadar
-Rittam Das
+- Gnanesh Robbi
+- Nimisha Manikandan
+- Bharathraj Sarvanan
+- Arshiya Nishanadar
+- Rittam Das
 
 ---
 
